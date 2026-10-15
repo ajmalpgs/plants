@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Aloe Vera",
+      "description": "Aloe Vera is a succulent plant species.",
+      "image": "images/p1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Snake Plant",
+      "description": "Snake Plant is a hardy and low-maintenance plant.",
+      "image": "images/p2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Spider Plant",
+      "description": "Spider Plant is known for its air-purifying capabilities.",
+      "image": "images/p3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Pothos",
+      "description": " Excellent air purifier and grows as vines.",
+      "image": "images/p4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Peace Lily",
+      "description": "Removes toxins from the air and produces beautiful white blooms.",
+      "image": "images/p5.jpg"
+    },
+    {
+      "id":6,
+      "name": "Rubber Plant",
+      "description": "Eye-catching glossy leaves and easy care.",
+      "image": "images/p6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "ZZ Plant",
+      "description": "Very hardy and low maintenance.",
+      "image": "images/p7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Areca Palm",
+      "description": " Adds a tropical feel and improves air quality.",
+      "image": "images/p8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Bamboo Palm",
+      "description": "Acts as a natural humidifier and improves air quality.",
+      "image": "images/p9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Philodendron",
+      "description": "Fast-growing and easy to maintain.",
+      "image": "images/p10.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Monstera Deliciosa",
+      "description": "Decorative leaves and low maintenance.",
+      "image": "images/p12.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Boston Fern",
+      "description": "Adds lush greenery and purifies the air",
+      "image": "images/p13.jpg"
+    }
+  ]

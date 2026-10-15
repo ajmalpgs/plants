@@ -1,0 +1,31 @@
+# Nuxt dev/build outputs
+.output
+.data
+.nuxt
+.nitro
+.cache
+dist
+
+# Node dependencies
+node_modules
+
+# Logs
+logs
+*.log
+
+# Test and tooling outputs
+coverage
+.eslintcache
+*.tsbuildinfo
+
+# Misc
+.DS_Store
+Thumbs.db
+Desktop.ini
+.fleet
+.idea
+
+# Local env files
+.env
+.env.*
+!.env.example
